@@ -33,16 +33,8 @@ function SidebarDefault(props) {
     const deconnexion = (e) => {
         if(window.confirm("Voulez-vous vraiment vous déconnecter ?") == true)
         {
-            const newurl = urlstandart + "/logout"
-            axios.post(newurl, { withCredentials: true })
-                .then(res => {
-                    ServiceUtilisateur.logout()
-                    window.location.reload()
-                })
-                .catch(err => {
-                    console.log(err)
-                    alert("Erreur lors de la déconnexion")
-                })
+            ServiceUtilisateur.logout()
+            window.location.reload()
         }
     }
     return (

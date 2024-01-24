@@ -190,6 +190,8 @@ function TableCommunique(props) {
                image: 'https://cdn.discordapp.com/attachments/926764573510492160/1186244497403826287/ADPME_Communique.png?ex=65928b47&is=65801647&hm=73e73b3cfad274f86dc388b4b5443888a77a16a22f9297063199578e45fd5e33&',
                status: 'Ouvert',
            })
+            alert("Communiqué enregistrer.")
+            setOpenModal(false)
         }
     }
     return (
