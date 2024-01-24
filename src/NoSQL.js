@@ -572,228 +572,228 @@ efficiente des moyens généraux de l’ADPME.
         datefin: "05/01/2024",
         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
     },
-    {
-        id: 6,
-        titre: "Chef Service Planification et Coordination des Projets des PTF",
-        subTitle: "Nous recherchons un Chef Service Planification et Coordination des Projets des PTF",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Sous l’autorité du DDPESP, le CS/PCPP assure la mise en œuvre de la politique de 
-planification de l’Agence. Il est également chargé de la coordination des projets des PTF.
+//     {
+//         id: 6,
+//         titre: "Chef Service Planification et Coordination des Projets des PTF",
+//         subTitle: "Nous recherchons un Chef Service Planification et Coordination des Projets des PTF",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Sous l’autorité du DDPESP, le CS/PCPP assure la mise en œuvre de la politique de 
+// planification de l’Agence. Il est également chargé de la coordination des projets des PTF.
 
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 7,
-        titre: "Chef Service Suivi-Évaluation et Statistiques",
-        subTitle: "Nous recherchons un Chef Service Suivi-Évaluation et Statistiques",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Sous l’autorité du DDPESP, le CS/SES est en charge de la mise en œuvre de la politique de 
-suivi-évaluation, capitalisation, apprentissage et des statistiques.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 7,
+//         titre: "Chef Service Suivi-Évaluation et Statistiques",
+//         subTitle: "Nous recherchons un Chef Service Suivi-Évaluation et Statistiques",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Sous l’autorité du DDPESP, le CS/SES est en charge de la mise en œuvre de la politique de 
+// suivi-évaluation, capitalisation, apprentissage et des statistiques.
 
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 8,
-        titre: "Chef Service Subventions et Facilités d'Accès aux Financements",
-        subTitle: "Nous recherchons un Chef Service Subventions et Facilités d'Accès aux Financements",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Sous l’autorité du DDAFP, le CS/SFAF met en œuvre les solutions de financement adaptées 
-aux besoins des micros, petites et moyennes entreprises.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 8,
+//         titre: "Chef Service Subventions et Facilités d'Accès aux Financements",
+//         subTitle: "Nous recherchons un Chef Service Subventions et Facilités d'Accès aux Financements",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Sous l’autorité du DDAFP, le CS/SFAF met en œuvre les solutions de financement adaptées 
+// aux besoins des micros, petites et moyennes entreprises.
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 9,
-        titre: "Chargé de communication",
-        subTitle: "Nous recherchons un  Chargé de communication",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Il est chargé de la coordination, du développement et de la mise en œuvre de la stratégie 
-de communication. Il veille sur l’image et la visibilité de l’Agence.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 9,
+//         titre: "Chargé de communication",
+//         subTitle: "Nous recherchons un  Chargé de communication",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Il est chargé de la coordination, du développement et de la mise en œuvre de la stratégie 
+// de communication. Il veille sur l’image et la visibilité de l’Agence.
 
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 10,
-        titre: "Informaticien",
-        subTitle: "Nous recherchons un  Informaticien",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Sous la supervision du Chef Cellule des Systèmes d’Information et de la Digitalisation, le 
-collaborateur informaticien est chargé de la mise en œuvre, du suivi et de la maintenance 
-des systèmes d’information de l’Agence. Ses responsabilités comprennent entre autres la 
-gestion des réseaux, des infrastructures technologiques et des bases de données, la 
-conception de logiciels et progiciels, les audits informatiques et l’administration de sites 
-web, plateformes et services.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 10,
+//         titre: "Informaticien",
+//         subTitle: "Nous recherchons un  Informaticien",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Sous la supervision du Chef Cellule des Systèmes d’Information et de la Digitalisation, le 
+// collaborateur informaticien est chargé de la mise en œuvre, du suivi et de la maintenance 
+// des systèmes d’information de l’Agence. Ses responsabilités comprennent entre autres la 
+// gestion des réseaux, des infrastructures technologiques et des bases de données, la 
+// conception de logiciels et progiciels, les audits informatiques et l’administration de sites 
+// web, plateformes et services.
 
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 11,
-        titre: "Spécialiste Juriste",
-        subTitle: "Nous recherchons un  Spécialiste Juriste",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Il est garant de la fiabilité juridique des engagements contractuels de l'entreprise. Assure 
-le respect de la législation et du droit en général, grâce à ses connaissances juridiques et 
-sa veille constante. 
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 11,
+//         titre: "Spécialiste Juriste",
+//         subTitle: "Nous recherchons un  Spécialiste Juriste",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Il est garant de la fiabilité juridique des engagements contractuels de l'entreprise. Assure 
+// le respect de la législation et du droit en général, grâce à ses connaissances juridiques et 
+// sa veille constante. 
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 12,
-        titre: "Assistant PRMP",
-        subTitle: "Nous recherchons un  Assistant PRMP",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Sous l’autorité de la Personne Responsable des Marchés Publics, l’Assistant PRMP a pour 
-mission d’apporter un appui efficace dans la gestion du Secrétariat de la PRMP et dans 
-l’exécution de toutes les activités de passation des marchés.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 12,
+//         titre: "Assistant PRMP",
+//         subTitle: "Nous recherchons un  Assistant PRMP",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Sous l’autorité de la Personne Responsable des Marchés Publics, l’Assistant PRMP a pour 
+// mission d’apporter un appui efficace dans la gestion du Secrétariat de la PRMP et dans 
+// l’exécution de toutes les activités de passation des marchés.
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 13,
-        titre: "Secrétaire PRMP",
-        subTitle: "Nous recherchons un  Secrétaire PRMP",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Appuyer de manière générale la PRMP dans sa mission de gestionnaire des marchés publics 
-de l'ADPME, de suivi des marchés et des différentes garanties inhérentes à la gestion des 
-marchés publics et toutes autres tâches que la PRMP sera amenée à lui confier.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 13,
+//         titre: "Secrétaire PRMP",
+//         subTitle: "Nous recherchons un  Secrétaire PRMP",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Appuyer de manière générale la PRMP dans sa mission de gestionnaire des marchés publics 
+// de l'ADPME, de suivi des marchés et des différentes garanties inhérentes à la gestion des 
+// marchés publics et toutes autres tâches que la PRMP sera amenée à lui confier.
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 14,
-        titre: "Agent de liaison",
-        subTitle: "Nous recherchons un  Agent de liaison",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Assurer la distribution de tous les courriers internes et auprès des partenaires.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 14,
+//         titre: "Agent de liaison",
+//         subTitle: "Nous recherchons un  Agent de liaison",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Assurer la distribution de tous les courriers internes et auprès des partenaires.
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
-    {
-        id: 15,
-        titre: "Conseillers d’entreprise",
-        subTitle: "Nous recherchons deux  Conseillers d’entreprise",
-        organisation: "ADPME",
-        dateOuverture: "14/11/23",
-        dateFermetture: "14/12/23",
-        document: "",
-        description: `Sous l’autorité du Chef de Service, le Conseiller d’entreprise déploie les outils et 
-mécanismes mis en place pour la promotion de l’entrepreneuriat, des startups et de 
-l’innovation. Il accompagne les initiatives entrepreneuriales et gère un portefeuille 
-d’entreprises.
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
+//     {
+//         id: 15,
+//         titre: "Conseillers d’entreprise",
+//         subTitle: "Nous recherchons deux  Conseillers d’entreprise",
+//         organisation: "ADPME",
+//         dateOuverture: "14/11/23",
+//         dateFermetture: "14/12/23",
+//         document: "",
+//         description: `Sous l’autorité du Chef de Service, le Conseiller d’entreprise déploie les outils et 
+// mécanismes mis en place pour la promotion de l’entrepreneuriat, des startups et de 
+// l’innovation. Il accompagne les initiatives entrepreneuriales et gère un portefeuille 
+// d’entreprises.
         
-        `,
-        typeemploi: "CDD",
-        specialite: "",
-        lieu: "Siège ADPME",
-        region: "Cotonou",
-        descsal: "Rémunération selon le profil",
-        datedeb: "22/12/2023",
-        datefin: "05/01/2024",
-        lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
-    },
+//         `,
+//         typeemploi: "CDD",
+//         specialite: "",
+//         lieu: "Siège ADPME",
+//         region: "Cotonou",
+//         descsal: "Rémunération selon le profil",
+//         datedeb: "22/12/2023",
+//         datefin: "05/01/2024",
+//         lien: "../Communiques/Avis de recrutement ADPME Pers. Compl._22 12 2023.pdf"
+//     },
     // {
     //     id:2,
     //     titre:"MARKETING",
